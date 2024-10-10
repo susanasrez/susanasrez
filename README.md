@@ -6,11 +6,6 @@ Welcome to my GitHub profile! I am a third year student of Data Science and Engi
 I am passionate about exploring the world of data and finding solutions through analysis and programming.
 </p>
 
-<h2 align="center" style="color: white;">Language and tools</h2>
-<p align="center">
-<img src="https://skills.thijs.gg/icons?i=python,pytorch,java,c&theme=dark"></p>
-<p align="center">
-<img src="https://skills.thijs.gg/icons?i=docker,linux,r,git&theme=dark"></p>
 
 <h2 align="center" style="color: white;">Github statistics</h2>
 <p align="center">
