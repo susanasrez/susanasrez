@@ -1,25 +1,20 @@
-
-<h2 align="center" style="color: white;">👩‍🎓 Student of Data Science and Engineering at the ULPGC</h2>
+<h2 align="center" style="color: white;">👩‍💻 Data Science & AI Engineer (MSc Student)</h2>
 
 <p align="center">
-Welcome to my GitHub profile! I am a third year student of Data Science and Engineering at the University of Las Palmas de Gran Canaria (ULPGC). 
-I am passionate about exploring the world of data and finding solutions through analysis and programming.
-</p>
-
-
-<h2 align="center" style="color: white;">Github statistics</h2>
-<p align="center">
-<img src= "https://github-readme-stats.vercel.app/api?username=susanasrez&show_icons=true&count_private=false&theme=default">
-</p>
-
-<h2 align="center" style="color: white;">A little about me</h2>
-<p align="center">
-I am a student with a passion for artificial intelligence and data analysis.
-I have an ability to generate creative and effective ideas through the development of various machine learning models. I am highly organised and efficient in project management, and have a strong ability to work in a self-directed manner while collaborating with team members.
-I pride myself on my ability to communicate effectively and I am an analytical and decisive person who strives to meet and exceed the targets set during the learning.
+Welcome to my GitHub profile!  
+I am a Data Science and Engineering graduate currently pursuing a <strong>Double Master’s Degree in Computer Engineering and Applied Artificial Intelligence</strong> at <strong>Universidad Carlos III de Madrid (UC3M)</strong>.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=susanasrez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+My main interests lie in applied artificial intelligence, including machine learning, deep learning, computer vision, natural language processing, and the automation of data-driven processes. I enjoy working on projects that bridge research and real-world applications.
 </p>
 
+<h2 align="center" style="color: white;">🧠 A little about me</h2>
+<p align="center">
+I have hands-on experience developing and evaluating machine learning and deep learning models, particularly in computer vision and image segmentation, gained through academic projects and a data science internship at the Gran Telescopio de Canarias.  
+My background includes working with Python-based AI ecosystems, data pipelines, and collaborative development tools.
+</p>
+
+<p align="center">
+I consider myself a highly motivated and organized person, with strong analytical skills and the ability to communicate technical concepts clearly. I am especially interested in applying AI techniques—such as intelligent agents, NLP, and automation—to solve real-world business and research problems.
+</p>
